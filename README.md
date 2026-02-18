@@ -2,7 +2,6 @@
 
 Newton School of Technology – DVA Capstone 1  
 Group - 8
-Academic Year: 2026
 
 ---
 
